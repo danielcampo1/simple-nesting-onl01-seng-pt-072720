@@ -2,6 +2,7 @@
 def hopper
 	programmer_hash = 
  	  {
+ 	      
  	    
         :grace_hopper => {
           :known_for => "COBOL",
@@ -73,10 +74,6 @@ end
 
 	programmer_hash = 
  		{
- 		    
- 		    :yukihiro_matsumoto => {
-        
-        }
  		    
         :grace_hopper => {
           :known_for => "COBOL",
