@@ -92,7 +92,7 @@ end
           :languages => ["C"]
         }
      }
-
+programmer[:alan_kay][:known_for] = "GUI"
     
 end
 
